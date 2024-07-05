@@ -1,0 +1,11 @@
+filepath: data/01_raw/creditcard.csv
+raw_data_filepath: data/03_primary/preprocessed_data.csv
+
+
+
+# parameters.yml
+target_column: "Class"  
+test_fraction: 0.2
+random_state: 42
+
+
